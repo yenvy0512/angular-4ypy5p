@@ -24,17 +24,17 @@
             ],
             "styles": [
                "src/css/bootstrap.min.css",
-              "src/css/calendar.css",
+              "src/css/atlas.css",
                "src/css/clndr.css",
-                "src/css/custom.css",
-               "src/css/custom_1.css",
-                "src/css/examples.css",
+                "src/css/fabochart.css",
+               "src/css/flexslider.css",
+             
                  "src/css/font-awesome.css",
                   "src/css/graph.css",
-                   "src/css/main.css",
+                    "src/css/icon-font.min.css",
                     "src/css/owl.carousel.css",
                      "src/css/style.css",
-                      "src/css/swipebox.css",
+                      
               "src/styles.css"
             ],
             "scripts": []
